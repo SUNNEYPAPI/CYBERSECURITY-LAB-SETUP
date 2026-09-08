@@ -145,7 +145,7 @@ This lab is strictly for educational purposes and authorized practice only.
 ## Author
 
 **Aimiyu Sunday Azeez**
-Cybersecurity Student — SOC Analyst Path
+Cybersecurity Intern B083
 
 ## Project Information
 
